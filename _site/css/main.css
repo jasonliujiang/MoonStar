@@ -65,9 +65,9 @@
   }
   
   .small-title {
-      color: gray;
-      line-height: 0.5rem;
-      font-size: 10px;
+      color: #515151;
+      line-height: 1rem;
+      font-size: 12px;
   }
   
   .modal-content {
