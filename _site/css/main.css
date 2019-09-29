@@ -71,7 +71,7 @@
   }
   
   .modal-content {
-      background: #040404;
+      background: rgba(4, 4, 4, 0.4);
   }
   
   .time-font {
